@@ -4,18 +4,18 @@ This script automates the installation of Oracle Java SE 23 on Debian-based Linu
 
 ## How to Use
 
-1. Download the script `java23install.sh`:
+1. Download the script `install_java23.sh`:
    - Go to the directory where you saved the file (either in file manager or CMD).
    - If using file manager, right-click on an empty spot and select "Open Terminal Here."
 
 2. Make the script executable:
    ```bash
-   chmod +x java23install.sh
+   chmod +x install_java23.sh
    ```
 
 3. Run the script:
    ```bash
-   ./java23install.sh
+   ./install_java23.sh
    ```
 
 ## What It Does
